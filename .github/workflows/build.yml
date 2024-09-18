@@ -25,3 +25,5 @@ jobs:
           path: |
             build/distributions/*
             build/reports/*
+            **/build/distributions/*
+            **/build/reports/*
